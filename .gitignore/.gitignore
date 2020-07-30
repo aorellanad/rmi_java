@@ -1,3 +1,27 @@
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+
 # client project
 Client/bin/
 Client/tmp/
+Client/build/
+Client/nbbuild/
+Client/nbdist/
+Client/.nb-gradle/
+
+# Interfaz project
+Interfaz/bin/
+Interfaz/tmp/
+Interfaz/build/
+Interfaz/nbbuild/
+Interfaz/nbdist/
+Interfaz/.nb-gradle/
+
+# RMI project
+RMIJava/bin/
+RMIJava/tmp/
+RMIJava/build/
+RMIJava/nbbuild/
+RMIJava/nbdist/
+RMIJava/.nb-gradle/
